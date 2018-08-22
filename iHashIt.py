@@ -20,7 +20,7 @@ def main():
 		return 1
 	m.update(b"" + bytearray(string, "utf-8"))
 	fmt = "Your [{}] hashed string is:{}\nDigest size: {}\nBlock size: {}\n\n"
-	print(fmt.format(method, m.hexdigest(), m.digest_size, m.block_size)
+	print(fmt.format(method.upper(), m.hexdigest(), m.digest_size, m.block_size)
 	print("iHashIt by GoDzM4TT3O")
 
 
