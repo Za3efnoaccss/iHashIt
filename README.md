@@ -1,4 +1,4 @@
-# iHashIt
+# iHashIt [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/GoDzM4TT3O/iHashIt) ![Build status](https://img.shields.io/badge/build-passing-blue.svg)
 iHashIt - hash a string from user input!
 
 ***
