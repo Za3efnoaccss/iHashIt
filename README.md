@@ -4,7 +4,7 @@ iHashIt - hash a string from user input!
 ***
 
 ## Requirements
-Python 3, hashlib and console modules
+Python 3, `hashlib` and `console` modules
 
 ***
 
